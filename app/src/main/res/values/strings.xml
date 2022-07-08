@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KotlinTutorial1</string>
+    <string name="email">Email<font color='#AE0D0D'>*</font></string>
+    <string name="pass">Password<font color='#AE0D0D'>*</font></string>
+</resources>
